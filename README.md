@@ -43,8 +43,8 @@ Conheci a programação na faculdade, tenho mais de 2 anos de experiência no me
 ##
 
 <div align="left">
-  <img height="50px" src="https://github-readme-stats.vercel.app/api?username=osvaldojr95&show_icons=true&theme=merko" alt="osvaldojr95"/>
-  <img height="50px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osvaldojr95&layout=compact&theme=merko" alt="osvaldojr95"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=osvaldojr95&show_icons=true&theme=merko" alt="osvaldojr95"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osvaldojr95&layout=compact&theme=merko" alt="osvaldojr95"/>
 </div>  
 
 ![Snake animation](https://github.com/osvaldojr95/osvaldojr95/blob/output/github-contribution-grid-snake.svg)
