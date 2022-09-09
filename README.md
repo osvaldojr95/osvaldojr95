@@ -1,4 +1,7 @@
 # Olá devs 👋, sou Osvaldo!
+
+![Snake animation](https://github.com/osvaldojr95/osvaldojr95/blob/output/github-contribution-grid-snake.svg)
+
 <!--
 **osvaldojr95/osvaldojr95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
