@@ -14,8 +14,23 @@ Conheci a programação na faculdade, tenho mais de 2 anos de experiência no me
 ## ⚙️ Tecnologias
 
 <div>
-  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C"/>
+  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"  alt="C#"/>
+  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5"/>
+  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css"/>
+  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap"/>
+  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass"/>
+  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react"/>
+  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="javascript"/>
+  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript"/>
+  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs"/>
+  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express"/>
+  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql"/>
+  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql"/>
+  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb"/>
+  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="redis"/>
+  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" alt="docker"/>
+  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws"/>
 </div>
 
 ## 💬 Contato
@@ -28,8 +43,8 @@ Conheci a programação na faculdade, tenho mais de 2 anos de experiência no me
 ##
 
 <div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=osvaldojr95&show_icons=true&theme=merko" alt="osvaldojr95"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osvaldojr95&layout=compact&theme=merko" alt="osvaldojr95"/>
+  <img height="50px" src="https://github-readme-stats.vercel.app/api?username=osvaldojr95&show_icons=true&theme=merko" alt="osvaldojr95"/>
+  <img height="50px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osvaldojr95&layout=compact&theme=merko" alt="osvaldojr95"/>
 </div>  
 
 ![Snake animation](https://github.com/osvaldojr95/osvaldojr95/blob/output/github-contribution-grid-snake.svg)
