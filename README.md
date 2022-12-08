@@ -6,7 +6,7 @@
 
 Conheci a programação na faculdade, tenho mais de 1 ano e meio de experiência no mercado trabalhando com C# e Laravel. Hoje sou desenvolvedor web fullstack formado com mais de 1200h em projetos na @driveneducation. Adoro passar tempo em projetos pessoais e explorar as possibilidades com arduino.
  
-  - 🚀 Nunca parando de aprender...
+  - 🚀 Sempre aprendendo
   - 🎛️ Fã nº 1 de serviços gratuitos    -RIP Heroku-
   - 🗯️ Vamos conversar sobre as tecnlogias!
   - 😄 Ele/dele
