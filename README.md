@@ -47,4 +47,3 @@ Conheci a programação na faculdade, tenho mais de 1 ano e meio de experiência
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osvaldojr95&layout=compact&theme=merko" alt="osvaldojr95"/>
 </div>  
 
-![Snake animation](https://github.com/osvaldojr95/osvaldojr95/blob/output/github-contribution-grid-snake.svg)
