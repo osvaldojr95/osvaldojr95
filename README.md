@@ -4,7 +4,7 @@
 
 ## 👽 Sobre mim
 
-3+ anos de experiência no mercado fullstack, já tendo atuado com as stacks PHP/Laravel, C#/.Net Core/Entity Framework, NodeJs/Typescript/Express/ReactJs.
++4 anos de experiência no mercado de Desenvolvimento fullstack, já tendo atuado com as stacks C#/.Net Core/Entity Framework, NodeJs/Typescript/Express/ReactJs e PHP/Laravel.
 
 ## ⚙️ Tecnologias
 
@@ -25,7 +25,7 @@
   <img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb"/>
   <img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="redis"/>
   <img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" alt="docker"/>
-  <img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws"/>
+  <img height="45px" src="https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png" alt="aws"/>
 </div>
 
 ## 💬 Contato
