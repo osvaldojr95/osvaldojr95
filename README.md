@@ -4,7 +4,7 @@
 
 ## 👽 Sobre mim
 
-+4 anos de experiência no mercado de Desenvolvimento fullstack, já tendo atuado com as stacks C#/.Net Core/Entity Framework, NodeJs/Typescript/Express/ReactJs e PHP/Laravel.
++5 anos de experiência no mercado de Desenvolvimento fullstack, já tendo atuado com as stacks C#/.Net Core/Entity Framework, NodeJs/Typescript/Express/ReactJs e PHP/Laravel.
 
 ## ⚙️ Tecnologias
 
