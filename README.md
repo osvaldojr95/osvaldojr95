@@ -1,38 +1,51 @@
 <a align="center" href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=C7F601&center=true&vCenter=true&width=900&height=60&lines=Ol%C3%A1%2C++seja+bem+vindo!+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=C7F601&center=true&vCenter=true&width=900&height=60&lines=Hi++Welcome!+%F0%9F%92%BB" alt="Typing SVG" />
 </a>
 
-## 👽 Sobre mim
+## 👋 Hi, welcome!
 
-+5 anos de experiência no mercado de Desenvolvimento fullstack, já tendo atuado com as stacks C#/.Net Core/Entity Framework, NodeJs/Typescript/Express/ReactJs e PHP/Laravel.
+I'm Osvaldo Júnior, a Senior Fullstack Software Engineer focused on building scalable back-end systems and modern web applications using Node.js, TypeScript, React, and cloud-native architectures.
+I have strong experience designing APIs, microservices, asynchronous workflows, and system integrations, always with a focus on performance, security, and maintainability.
 
-## ⚙️ Tecnologias
+## 🧠 About Me
 
-<div>
-  <img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C"/>
-  <img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"  alt="C#"/>
-  <img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5"/>
-  <img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css"/>
-  <img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap"/>
-  <img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react"/>
-  <img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="javascript"/>
-  <img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript"/>
-  <img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs"/>
-  <img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express"/>
-  <img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql"/>
-  <img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql"/>
-  <img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb"/>
-  <img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="redis"/>
-  <img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" alt="docker"/>
-  <img height="45px" src="https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png" alt="aws"/>
-</div>
+- 💼 5+ years of professional experience as a Fullstack Developer
+- 🔧 Strong background in Node.js, TypeScript, React, and Ruby on Rails
+- ☁️ Solid experience with AWS, distributed systems, and message queues
+- 🔁 Hands-on with microservices, background jobs, and feature flag systems
+- 🧩 Experienced in complex business rules, financial calculations, and payment integrations
+- 🤝 Used to working in remote, cross-functional, agile teams
+- 🌍 English: Advanced | Portuguese: Native
 
-## 💬 Contato
+## 💬 Contact
 
 <div>
   <a href="mailto:osvaldojunior95@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"><a/> 
   <a href="https://www.linkedin.com/in/osvaldojunior95/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"><a/> 
 </div>
+    
+## 🚀 Tech Stack
+
+| **Back-end / Architecture** | **Front-end** | **Databases / Caching** |
+|---|---|---|
+| Node.js | React.js | PostgreSQL |
+| TypeScript | JavaScript (ES6+) | MongoDB |
+| Ruby on Rails | HTML5 & CSS3 | DynamoDB |
+| .NET Core / C# | Tailwind CSS | Redis |
+| RESTful APIs & Microservices | Styled Components |  
+| Background Jobs & Asynchronous Processing | Material UI |
+| RabbitMQ | Bootstrap |
+| Feature Flags |
+| Idempotency |
+| Payment & External API Integrations |
+
+| **Cloud / DevOps** | **Testing / Quality** |
+|---|---|
+| AWS (S3, EC2, SQS, SNS, CloudWatch) | Jest |
+| Docker | Cypress |
+| GitHub Actions | Supertest |
+| CI/CD Pipelines / C# | RSpec |
+| NGINX | xUnit |
 
 ##
 
