@@ -10,7 +10,7 @@ I have strong experience designing APIs, microservices, asynchronous workflows, 
 ## 🧠 About Me
 
 - 💼 5+ years of professional experience as a Fullstack Developer
-- 🔧 Strong background in Node.js, TypeScript, React, and Ruby on Rails
+- 🔧 Strong background in C#/.NET, Node.js, TypeScript, React, and Ruby on Rails
 - ☁️ Solid experience with AWS, distributed systems, and message queues
 - 🔁 Hands-on with microservices, background jobs, and feature flag systems
 - 🧩 Experienced in complex business rules, financial calculations, and payment integrations
