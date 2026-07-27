@@ -4,7 +4,7 @@
 
 ## 👋 Hi, welcome!
 
-I'm Osvaldo Júnior, a Senior Fullstack Software Engineer focused on building scalable back-end systems and modern web applications using Node.js, TypeScript, React, and cloud-native architectures.
+I'm Osvaldo Júnior, a Senior Fullstack Software Engineer focused on building scalable back-end systems and modern web applications using C#/.NET, Node.js, TypeScript, React, and cloud-native architectures.
 I have strong experience designing APIs, microservices, asynchronous workflows, and system integrations, always with a focus on performance, security, and maintainability.
 
 ## 🧠 About Me
