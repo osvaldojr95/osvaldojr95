@@ -4,18 +4,17 @@
 
 ## 👋 Hi, welcome!
 
-I'm Osvaldo Júnior, a Senior Fullstack Software Engineer focused on building scalable back-end systems and modern web applications using C#/.NET, Node.js, TypeScript, React, and cloud-native architectures.
-I have strong experience designing APIs, microservices, asynchronous workflows, and system integrations, always with a focus on performance, security, and maintainability.
+Full Stack Engineer with 5+ years building web products using Node.js, TypeScript and React.
 
 ## 🧠 About Me
 
-- 💼 5+ years of professional experience as a Fullstack Developer
-- 🔧 Strong background in C#/.NET, Node.js, TypeScript, React, and Ruby on Rails
-- ☁️ Solid experience with AWS, distributed systems, and message queues
-- 🔁 Hands-on with microservices, background jobs, and feature flag systems
-- 🧩 Experienced in complex business rules, financial calculations, and payment integrations
-- 🤝 Used to working in remote, cross-functional, agile teams
-- 🌍 English: Advanced | Portuguese: Native
+- 🔧 Experience in SaaS business rules, payment integrations (Pagar.me, Stripe), APIs, microservices and production
+delivery.
+- 🔁 Built an end-to-end commissions module at a dental SaaS platform with complex financial rules and
+automated tests.
+- ☁️ FinTech background at Laqus with Node.js APIs, queues (RabbitMQ, AWS SQS/SNS) and
+React dashboards.
+- 🧩 Also shipped high-impact Ruby on Rails modules in recent roles.
 
 ## 💬 Contact
 
