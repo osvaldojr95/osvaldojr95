@@ -4,7 +4,7 @@
 
 ## 👋 Hi, welcome!
 
-Full Stack Engineer with 5+ years building web products using Node.js, TypeScript and React.
+I'm Osvaldo, I've been building web products for over 5 years using Node.js, TypeScript and React.
 
 ## 🧠 About Me
 
